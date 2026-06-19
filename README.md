@@ -52,6 +52,6 @@ O dataset representa interações entre usuários da plataforma Ask Ubuntu, incl
 │   └── output_36_1.png
 │
 ├── src/
-│   └── analise_g96.py
+│   └── SNAP-DEF.ipynb
 │
 └── README.md
